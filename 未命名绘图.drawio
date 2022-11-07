@@ -1,1 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T02:58:45.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="mtCfmCbnPKcjbk_MUMbj" type="github"><diagram id="QBNB9no1at_FSSgJoO2V">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-07T03:33:15.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ewhA7LOucfryLdjah3n1" version="20.5.3" type="github">
+  <diagram id="QBNB9no1at_FSSgJoO2V" name="第 1 页">
+    <mxGraphModel dx="2207" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.028;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" source="zEHXMnKuMd6NJN0wN5cv-1" target="zEHXMnKuMd6NJN0wN5cv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-1" value="用户正筛子" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="zEHXMnKuMd6NJN0wN5cv-2" target="zEHXMnKuMd6NJN0wN5cv-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-2" value="生成一个随机数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="186" y="66" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" source="zEHXMnKuMd6NJN0wN5cv-23" target="zEHXMnKuMd6NJN0wN5cv-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-23" value="用户重置游戏" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="4" y="481" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=4;" edge="1" parent="1" source="zEHXMnKuMd6NJN0wN5cv-24" target="zEHXMnKuMd6NJN0wN5cv-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-24" value="将所有分数置0" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="204" y="491" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-26" value="将玩家1作为当前玩家" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="404" y="491" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="zEHXMnKuMd6NJN0wN5cv-35" target="zEHXMnKuMd6NJN0wN5cv-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-35" value="显示随机数" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="386" y="66" width="118" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="zEHXMnKuMd6NJN0wN5cv-38" target="zEHXMnKuMd6NJN0wN5cv-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="zEHXMnKuMd6NJN0wN5cv-38" target="zEHXMnKuMd6NJN0wN5cv-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-38" value="筛子是否为1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="603" y="56" width="137" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="zEHXMnKuMd6NJN0wN5cv-40" target="zEHXMnKuMd6NJN0wN5cv-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-40" value="将筛子数加到当前分数" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="828.5" y="66" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-42" value="转换到另一个玩家" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="611.5" y="226" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-44" value="显示新的分数" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1028.5" y="66" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="zEHXMnKuMd6NJN0wN5cv-50" target="zEHXMnKuMd6NJN0wN5cv-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="zEHXMnKuMd6NJN0wN5cv-50" target="zEHXMnKuMd6NJN0wN5cv-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-50" value="score&amp;gt;=100" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="409" y="216" width="102.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-52" value="当前玩家获胜" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400.25" y="386" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="zEHXMnKuMd6NJN0wN5cv-54" target="zEHXMnKuMd6NJN0wN5cv-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-54" value="分数累加" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="217.75" y="226" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;endArrow=classic;endFill=1;" edge="1" parent="1" source="zEHXMnKuMd6NJN0wN5cv-56" target="zEHXMnKuMd6NJN0wN5cv-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-56" value="用户手动结束本轮" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="17.75" y="226" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306" y="96" as="sourcePoint" />
+            <mxPoint x="386" y="96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="137.75" y="256" as="sourcePoint" />
+            <mxPoint x="217.75" y="256" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="337.75" y="256" as="sourcePoint" />
+            <mxPoint x="409" y="256" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460.3000000000002" y="295.9609756097559" as="sourcePoint" />
+            <mxPoint x="460.3000000000002" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;endArrow=classic;endFill=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="511.5" y="256" as="sourcePoint" />
+            <mxPoint x="611.5" y="256" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="504" y="96" as="sourcePoint" />
+            <mxPoint x="603" y="96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="671.5" y="136" as="sourcePoint" />
+            <mxPoint x="671.5" y="226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="96" as="sourcePoint" />
+            <mxPoint x="828.5" y="96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-70" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;NO&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="523" y="223" width="38" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-71" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;YES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="467" y="304" width="44" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;NO&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="761" y="66" width="38" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="zEHXMnKuMd6NJN0wN5cv-73" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;YES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="148" width="44" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

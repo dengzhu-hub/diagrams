@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T11:11:37.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HLpTqXlaxUPOFSuyq_Un" version="21.3.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-24T11:17:33.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zSGzKYAwmlBOcRjfVHE0" version="21.3.2" type="github" pages="7">
   <diagram id="72dNCrbUw9OVhxTshWbL" name="第 2 页">
     <mxGraphModel dx="1217" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1489,6 +1489,14 @@
         <mxCell id="BGdpJAUpxSXYkTLjj8xl-17" value="&lt;font color=&quot;#b3b3b3&quot; style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Jonas&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1050" y="588" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yS5pIl_IQVCIA9MvweOG" name="商品列表">
+    <mxGraphModel dx="1429" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
